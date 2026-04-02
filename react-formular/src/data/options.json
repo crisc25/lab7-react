@@ -1,0 +1,7 @@
+ {
+
+    "destinations": ["Paris", "Roma", "Barcelona"],
+    "transport": ["Avion", "Tren", "Mașină"],
+    "activities": ["Tur ghidat", "Muzee", "Drumeții"]
+
+}
